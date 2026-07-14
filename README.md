@@ -1,7 +1,8 @@
 # NeuroFlow Lease Strategy Dashboard
 
-Client-ready dashboard with dynamic hero header:
-- Philadelphia header metrics appear for the 1601 Market sections
-- NYC / Quartet header metrics appear only on the NYC / Quartet tab
+Updated NYC / Quartet tab:
+- 4th floor reported subleased to Flight Centre
+- 5th floor subleased to Analytic Partners
+- objective: exit NYC lease exposure and/or reduce remaining exposure
 
 Upload `index.html`, `.nojekyll`, and this README to GitHub Pages.
