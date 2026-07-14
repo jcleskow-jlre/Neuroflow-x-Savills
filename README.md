@@ -1,8 +1,7 @@
-# NeuroFlow 1601 Market Dashboard
+# NeuroFlow Lease Strategy Dashboard
 
-CFO/client-ready dashboard with:
-- updated top summary boxes
-- full-screen zoomable financial analysis
-- corrected section spacing / layout
+Client-ready dashboard with dynamic hero header:
+- Philadelphia header metrics appear for the 1601 Market sections
+- NYC / Quartet header metrics appear only on the NYC / Quartet tab
 
 Upload `index.html`, `.nojekyll`, and this README to GitHub Pages.
