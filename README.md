@@ -1,9 +1,8 @@
 # NeuroFlow 1601 Market Dashboard
 
-Client-ready interactive dashboard organized around:
-- About Savills
-- Current state at 1601 Market
-- Building stack
-- Early restructure strategy with financial impact and giveback plan
+CFO/client-ready dashboard with:
+- updated top summary boxes
+- full-screen zoomable financial analysis
+- corrected section spacing / layout
 
 Upload `index.html`, `.nojekyll`, and this README to GitHub Pages.
