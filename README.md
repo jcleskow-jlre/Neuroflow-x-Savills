@@ -1,8 +1,9 @@
 # NeuroFlow Lease Strategy Dashboard
 
-Updated GitHub Pages package:
-- inserted the latest 12-slide About Savills PDF
-- removed "live" from the Year 6 termination option subtitle
-- added NYC lease expiration to the NYC / Quartet header
+GitHub Pages upload package with Greg edits:
+- updated giveback space note to ~2,500 RSF
+- removed usable square footage references from the dashboard
+- removed crossed-out early restructure KPI cards
+- removed crossed-out cost comparison chart
 
 Upload `index.html`, `.nojekyll`, and this README to GitHub Pages.
